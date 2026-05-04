@@ -13,5 +13,4 @@ def main():
 
     graficar_arbol(modelo, X.columns, vino.target_names)
 
-if __name__ == "__main__":
-    main()
+main()
